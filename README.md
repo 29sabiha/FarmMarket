@@ -30,9 +30,8 @@ currencies are never mixed.
 
 ## 📸 Screenshots
 
-| Homepage | Marketplace |
-|---|---|
-| ![FarmMarket homepage](docs/screenshots/homepage.png) | ![FarmMarket marketplace](docs/screenshots/marketplace.png) |
+Watching From Live Demo :- 
+**https://farmmarket-gdcm.onrender.com**
 
 ## 📑 Table of Contents
 
