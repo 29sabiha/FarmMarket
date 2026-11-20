@@ -450,7 +450,7 @@ Full details: [LIMITATIONS.md](LIMITATIONS.md). Architecture:
 
 ## 👥 Team
 
-Built by **Team Agronexis** — Md. Maruf Hasan Tuhin.
+Built by **Team Agronexis** for Ai Builder Congress 2026
 
 ## 📄 License
 
